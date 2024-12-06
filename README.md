@@ -1,4 +1,4 @@
-# <p align="center"> Made in Ghana :congo: </p>
+# <p align="center"> Made in Congo 🇨🇩 </p>
 
 Une sélection unique de talents, ressources, communautés et initiatives dans le domaine de la tech pa des Congolais.
 
@@ -9,10 +9,11 @@ Si vous souhaitez contribuer, veuillez lire le [guide de contribution](https://g
 <details open>
  <summary><h2>Entreprises Tech</h2></summary>
  
- | Nom de l'entreprise| Industrie | Site web| Linkedin | Twitter |
- | ----------------------- | ------- | ------------------ |------------------------------- |
- | Schoolap | Edtech | https://www.schoolap.com | https://www.linkedin.com/company/schoolap | https://x.com/SCHOOLAP_ |
- |Itot Africa | Edtech | https://itot.africa | https://www.linkedin.com/company/itot-africa | https://x.com/ItotAfrica |
+| Nom de l'entreprise | Industrie | Site web               | Linkedin                                | Twitter                      |
+| ------------------- | --------- | ---------------------- | --------------------------------------- | ---------------------------- |
+| Schoolap            | Edtech    | https://www.schoolap.com | https://www.linkedin.com/company/schoolap | https://x.com/SCHOOLAP_      |
+| Itot Africa         | Edtech    | https://itot.africa      | https://www.linkedin.com/company/itot-africa | https://x.com/ItotAfrica |
+
  
  </details>
  
